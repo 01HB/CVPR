@@ -1,2 +1,2 @@
 # CVPR
-Computer Vision and Pattern Recognition- files
+COE4234 Computer Vision and Pattern Recognition- files
