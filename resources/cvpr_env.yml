@@ -1,0 +1,35 @@
+name: cvpr
+
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - pip>=22.0.2
+  - numpy
+  - scipy
+  - pandas
+  - pandas-datareader
+  - requests
+  - flask
+  - boto3
+  - seaborn
+  - pip:
+    - opencv-python
+    - matplotlib
+    - scikit-image
+    - scikit-learn
+    - jupyter
+    - ipykernel
+    - pyyaml
+    - tqdm
+    - tensorboard
+    - keras
+    - h5py
+    - pillow
+    - bayesian-optimization
+    - gym
+    - kaggle
+    - jupyter_contrib_nbextensions
+
