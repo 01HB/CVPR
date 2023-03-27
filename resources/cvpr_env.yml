@@ -27,6 +27,7 @@ dependencies:
     - tqdm
     - tensorboard
     - tensorflow
+    - tensorflow-datasets
     - keras
     - h5py
     - pillow
