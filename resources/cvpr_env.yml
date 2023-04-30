@@ -21,6 +21,7 @@ dependencies:
     - matplotlib
     - scikit-image
     - scikit-learn
+    - imbalanced-learn
     - jupyter
     - ipykernel
     - pyyaml
